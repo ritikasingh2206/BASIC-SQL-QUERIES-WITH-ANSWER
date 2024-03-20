@@ -1,5 +1,5 @@
 # BASIC SQL QUERIES WITH ANSWER
-🚀**SQL Project: Employee Management System**
+🚀**SQL Project:- Employee Management System**
 
 🔍**Objective**: To create a database system for managing employee information, including details such as worker ID, name, salary, joining date, department, bonuses, and titles.
 
